@@ -5,5 +5,5 @@ i make silly homebrewed proxies and useful tools for school! check out my stuff 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dinguschan-owo" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinguschan-owo&layout=compact&langs_count=8&card_width=340" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinguschan-owo&layout=compact&langs_count=8&card_width=341" />
 </a>
